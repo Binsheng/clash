@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
- - {name: 🇺🇸 US 🇺🇸（HiPDA 奈飞分舵）, server: 79.110.54.133, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 🇺🇸 US 🇺🇸（HiPDA 奈飞分舵）, server: 79.110.54.133, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇺🇸 US 🇺🇸（HiPDA 奈飞分舵）2, server: 66.115.177.156, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇺🇸 us（HiPDA 奈飞分舵）, server: nn-ssr4.feiclouddd.me, port: 443, type: vmess, uuid: 79214731-7f0c-4f2d-a894-13b7df293624, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sadfasdf, ws-headers: {Host: nn-ssr4.feiclouddd.me}}
   - {name: 🇺🇸 us（HiPDA 奈飞分舵） 2, server: nn-ssr4.feiclouddd.me, port: 443, type: vmess, uuid: 79214731-7f0c-4f2d-a894-13b7df293624, alterId: 60, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /sadfasdf, ws-headers: {Host: nn-ssr4.feiclouddd.me}}
@@ -83,7 +83,7 @@ proxies:
   - {name: 🇺🇸 洛杉矶（HiPDA 奈飞分舵）66, server: 172.99.190.92, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇺🇸 洛杉矶（HiPDA 奈飞分舵）67, server: 172.99.190.109, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇺🇸 洛杉矶（HiPDA 奈飞分舵）68, server: 172.99.190.57, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-   - {name: 🇺🇸美国加利福尼亚（HiPDA 奈飞分舵）, server: 45.79.121.236, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸美国加利福尼亚（HiPDA 奈飞分舵）, server: 45.79.121.236, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇺🇸 美国, server: 198.8.92.84, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: 🇺🇸 美国 （HiPDA 奈飞分舵）, server: 45.79.127.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇺🇸 美国 （HiPDA 奈飞分舵）2, server: 193.118.60.171, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
@@ -316,39 +316,31 @@ proxies:
   - {name: 🇺🇸 美国洛杉矶（HiPDA 奈飞分舵）% 64, server: 167.88.63.11, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 美国洛杉矶（HiPDA 奈飞分舵）% 65, server: 167.88.63.108, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇺🇸 美国洛杉矶（HiPDA 奈飞分舵）, server: 38.107.226.149, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-
   - {name: 🇮🇹 意大利（HiPDA 奈飞分舵）, server: 82.102.26.94, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: 🇸🇬 新加坡11 （HiPDA 奈飞分舵）, server: 13.213.251.185, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
   - {name: 🇭🇷克罗地亚, server: 85.10.50.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇿🇦 南非 约翰内斯堡（HiPDA 奈飞分舵）, server: 172.107.233.234, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-
- - {name:🇨🇦 ca（HiPDA 奈飞分舵）, server: 134.195.196.163, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:🇨🇦 ca（HiPDA 奈飞分舵）, server: 134.195.196.163, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name:🇨🇦 ca（HiPDA 奈飞分舵）2, server: 134.195.198.95, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇨🇦ca（HiPDA 奈飞分舵）3, server: 134.195.196.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇨🇦ca（HiPDA 奈飞分舵）4, server: 134.195.196.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-
   - {name: 香港🇭🇰（HiPDA 奈飞分舵）, server: 118.107.244.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 香港🇭🇰（HiPDA 奈飞分舵）2, server: 118.107.244.114, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 香港🇭🇰（HiPDA 奈飞分舵）3, server: 118.107.244.110, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-
   - {name: 🇧🇪比利时, server: 91.90.123.115, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 🇧🇪比利时（HiPDA 奈飞分舵）, server: 91.90.123.115, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
   - {name: 🇧🇪比利时（HiPDA 奈飞分舵）, server: 91.90.123.115, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-
   - {name: 🇫🇷 FR（HiPDA 奈飞分舵）, server: 51.89.99.52, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇫🇷 法国 上法兰西（HiPDA 奈飞分舵）, server: 5.39.70.138, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇫🇷 法国 上法兰西（HiPDA 奈飞分舵）2, server: 5.39.70.138, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-
   - {name: 🇩🇪 德国 黑森（HiPDA 奈飞分舵）, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇩🇪 德国 黑森（HiPDA 奈飞分舵）2, server: 145.239.1.137, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇩🇪 德国 黑森（HiPDA 奈飞分舵）3, server: 145.239.1.137, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇩🇪 德国（HiPDA 奈飞分舵）, server: 194.195.124.174, port: 4443, type: trojan, password: 7x42LetRa0, skip-cert-verify: false}
-
   - {name: 🇳🇴挪威（HiPDA 奈飞分舵）, server: 46.29.218.6, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇳🇴挪威（HiPDA 奈飞分舵）2, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇳🇴挪威（HiPDA 奈飞分舵）3, server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇳🇴挪威（HiPDA 奈飞分舵）4, server: 46.29.218.6, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-
   - {name: 🇦🇺墨尔本（HiPDA 奈飞分舵）, server: 103.192.80.133, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 🇦🇺 澳大利亚（HiPDA 奈飞分舵）, server: 172.105.167.214, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇦🇺 澳大利亚（HiPDA 奈飞分舵）2, server: 172.105.174.182, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
@@ -370,7 +362,6 @@ proxies:
   - {name: 🇦🇺 悉尼（HiPDA 奈飞分舵）16, server: 172.105.174.182, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇦🇺 悉尼（HiPDA 奈飞分舵）17, server: 172.105.172.37, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇦🇺 悉尼（HiPDA 奈飞分舵）18, server: 118.107.244.114, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-
   - {name: 🇵🇱波兰 华沙（HiPDA 奈飞分舵）, server: 51.77.53.200, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇵🇱波兰 华沙（HiPDA 奈飞分舵）2, server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇵🇱波兰 华沙（HiPDA 奈飞分舵）3, server: 51.77.53.200, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
@@ -384,7 +375,6 @@ proxies:
   - {name: 🇵🇱波兰 华沙（HiPDA 奈飞分舵）, server: 51.77.52.206, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇵🇱波兰 华沙（HiPDA 奈飞分舵）2, server: 51.77.53.200, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇵🇱波兰 华沙（HiPDA 奈飞分舵）3, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-
   - {name: 🇪🇸西班牙 巴塞罗那（HiPDA 奈飞分舵）, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇪🇸西班牙5 （HiPDA 奈飞分舵）, server: 172.107.233.234, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇪🇸巴塞罗那（HiPDA 奈飞分舵）, server: 38.39.192.74, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
@@ -394,7 +384,6 @@ proxies:
   - {name: 🇪🇸巴塞罗那（HiPDA 奈飞分舵）5, server: 172.107.233.234, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇪🇸巴塞罗那（HiPDA 奈飞分舵）6, server: 172.107.233.230, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇪🇸巴塞罗那（HiPDA 奈飞分舵）7, server: 172.107.233.234, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-
   - {name: 🇧🇷 巴西 圣保罗（HiPDA 奈飞分舵）, server: 128.14.222.218, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇧🇷 巴西 圣保罗（HiPDA 奈飞分舵）2, server: 128.14.222.220, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇧🇷 巴西 圣保罗（HiPDA 奈飞分舵）3, server: 128.14.222.210, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
@@ -407,7 +396,6 @@ proxies:
   - {name: 🇧🇷 巴西 圣保罗（HiPDA 奈飞分舵）10, server: 128.14.222.216, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇧🇷 巴西 圣保罗（HiPDA 奈飞分舵）11, server: 128.14.222.216, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇧🇷 巴西 圣保罗（HiPDA 奈飞分舵）, server: 128.14.222.215, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-
   - {name: 🇷🇴 罗马尼亚 布加勒斯特（HiPDA 奈飞分舵）, server: 91.90.123.115, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 🇷🇴 罗马尼亚 布加勒斯特（HiPDA 奈飞分舵） 2, server: 91.90.123.115, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
   - {name: 🇷🇴 罗马尼亚 布加勒斯特（HiPDA 奈飞分舵） 3, server: 91.90.123.115, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
@@ -415,7 +403,6 @@ proxies:
   - {name: 🇷🇴 罗马尼亚 布加勒斯特4（HiPDA 奈飞分舵）, server: 91.90.123.115, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
   - {name: 🇷🇴 罗马尼亚（HiPDA 奈飞分舵）, server: 91.90.123.115, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
   - {name: 🇷🇴 罗马尼亚（HiPDA 奈飞分舵） 2, server: 91.90.123.115, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-
   - {name: 🇮🇳 印度 （HiPDA 奈飞分舵）, server: 172.105.63.34, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇮🇳 印度 印多尔（HiPDA 奈飞分舵）, server: 137.59.52.107, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
   - {name: 🇮🇳 印度 孟买（HiPDA 奈飞分舵）, server: 192.46.211.249, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
@@ -474,7 +461,6 @@ proxies:
   - {name: 🇮🇳 印度（HiPDA 奈飞分舵）20, server: 103.39.134.62, port: 32558, type: ss, cipher: aes-256-gcm, password: gJYzm3TLbdL495ryQptaJXQk}
   - {name: 🇮🇳 印度（HiPDA 奈飞分舵）21, server: 103.39.134.62, port: 49719, type: ss, cipher: aes-256-gcm, password: 42SjT9vBF6ma9eFF3URaJpQ4}
   - {name: 🇮🇳 印度（HiPDA 奈飞分舵）22, server: 103.39.134.62, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-
   - {name: 🇬🇧 英国_3（HiPDA 奈飞分舵）, server: 89.238.130.227, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 🇬🇧 英国 （HiPDA 奈飞分舵）, server: 172.99.190.35, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇬🇧 英国 曼彻斯特（HiPDA 奈飞分舵）, server: 84.39.114.86, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
@@ -523,7 +509,6 @@ proxies:
   - {name: 🇬🇧 英国伦敦（HiPDA 奈飞分舵）% 43, server: 193.118.60.175, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇬🇧 英国伦敦（HiPDA 奈飞分舵）% 44, server: 193.118.60.173, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇬🇧 英国伦敦（HiPDA 奈飞分舵）% 45, server: 193.118.60.177, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-
   - {name: 🇰🇷 韩国（HiPDA 奈飞分舵）, server: 103.249.31.29, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
   - {name: 🇰🇷 韩国（HiPDA 奈飞分舵）2, server: 103.249.31.29, port: 50225, type: ss, cipher: aes-256-gcm, password: J2M953QbkCvvzx3vYWdyBQ4K}
   - {name: 🇰🇷 韩国（HiPDA 奈飞分舵）3, server: 103.249.31.29, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}

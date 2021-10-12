@@ -314,8 +314,6 @@ proxies:
   - {name: 🇸🇬 新加坡11 （HiPDA 奈飞分舵）, server: 13.213.251.185, port: 18331, type: ss, cipher: chacha20-ietf-poly1305, password: Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS}
   - {name: 🇭🇷克罗地亚, server: 85.10.50.164, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
   - {name: 🇿🇦 南非 约翰内斯堡（HiPDA 奈飞分舵）, server: 172.107.233.234, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦 ca（HiPDA 奈飞分舵）, server: 134.195.196.163, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦 ca（HiPDA 奈飞分舵）2, server: 134.195.198.95, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇨🇦ca（HiPDA 奈飞分舵）3, server: 134.195.196.97, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 🇨🇦ca（HiPDA 奈飞分舵）4, server: 134.195.196.79, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
   - {name: 香港🇭🇰（HiPDA 奈飞分舵）, server: 118.107.244.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}

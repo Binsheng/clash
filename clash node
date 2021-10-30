@@ -1,76 +1,76 @@
 proxies:
   - {name: ITZZ（HiPDA 奈飞分舵）, server: 82.102.26.94, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
   - {name: 🇺🇸 us（HiPDA 奈飞分舵）, server: 167.88.63.99, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA01（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA01（HiPDA 奈飞分舵） 2, server: 134.195.196.36, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA01（HiPDA 奈飞分舵） 3, server: 134.195.196.50, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA01（HiPDA 奈飞分舵） 4, server: 134.195.196.202, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA01（HiPDA 奈飞分舵） 5, server: 134.195.196.179, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA01（HiPDA 奈飞分舵） 6, server: 134.195.196.193, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA01（HiPDA 奈飞分舵） 7, server: 134.195.196.231, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA02（HiPDA 奈飞分舵）, server: 134.195.196.36, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA02（HiPDA 奈飞分舵） 2, server: 134.195.196.199, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA02（HiPDA 奈飞分舵） 3, server: 134.195.196.231, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA02（HiPDA 奈飞分舵） 4, server: 134.195.196.179, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA02（HiPDA 奈飞分舵） 5, server: 134.195.196.202, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA02（HiPDA 奈飞分舵） 6, server: 134.195.196.193, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name:🇨🇦CA03（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA03（HiPDA 奈飞分舵） 2, server: 134.195.196.24, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA03（HiPDA 奈飞分舵） 3, server: 134.195.196.50, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA03（HiPDA 奈飞分舵） 4, server: 134.195.196.36, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA03（HiPDA 奈飞分舵） 5, server: 134.195.196.231, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA03（HiPDA 奈飞分舵） 6, server: 134.195.196.193, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA04（HiPDA 奈飞分舵）, server: 134.195.196.50, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA04（HiPDA 奈飞分舵） 2, server: 134.195.196.199, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA04（HiPDA 奈飞分舵） 3, server: 134.195.196.231, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA04（HiPDA 奈飞分舵） 4, server: 134.195.196.179, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA04（HiPDA 奈飞分舵） 5, server: 134.195.196.202, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA04（HiPDA 奈飞分舵） 6, server: 134.195.196.24, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name:🇨🇦CA05（HiPDA 奈飞分舵）, server: 134.195.196.50, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA05（HiPDA 奈飞分舵） 2, server: 134.195.196.202, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA05（HiPDA 奈飞分舵） 3, server: 134.195.196.179, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA05（HiPDA 奈飞分舵） 4, server: 134.195.196.24, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA05（HiPDA 奈飞分舵） 5, server: 134.195.196.231, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA05（HiPDA 奈飞分舵） 6, server: 134.195.196.199, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA06（HiPDA 奈飞分舵）, server: 134.195.196.179, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA06（HiPDA 奈飞分舵） 2, server: 134.195.196.50, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA06（HiPDA 奈飞分舵） 3, server: 134.195.196.231, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA06（HiPDA 奈飞分舵） 4, server: 134.195.196.36, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA06（HiPDA 奈飞分舵） 5, server: 134.195.196.193, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name:🇨🇦CA07（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name:🇨🇦CA07（HiPDA 奈飞分舵） 2, server: 134.195.196.231, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name:🇨🇦CA07（HiPDA 奈飞分舵） 3, server: 134.195.196.24, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name:🇨🇦CA07（HiPDA 奈飞分舵） 4, server: 134.195.196.179, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name:🇨🇦CA07（HiPDA 奈飞分舵） 5, server: 134.195.196.36, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name:🇨🇦CA07（HiPDA 奈飞分舵） 6, server: 134.195.196.202, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name:🇨🇦CA07（HiPDA 奈飞分舵） 7, server: 134.195.196.50, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name:🇨🇦CA07（HiPDA 奈飞分舵） 8, server: 134.195.196.193, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name:🇨🇦CA08（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA08（HiPDA 奈飞分舵） 2, server: 134.195.196.231, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA08（HiPDA 奈飞分舵） 3, server: 134.195.196.50, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA08（HiPDA 奈飞分舵） 4, server: 134.195.196.179, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA08（HiPDA 奈飞分舵） 5, server: 134.195.196.24, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA08（HiPDA 奈飞分舵） 6, server: 134.195.196.202, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA08（HiPDA 奈飞分舵） 7, server: 134.195.196.193, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA09（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA09（HiPDA 奈飞分舵） 2, server: 134.195.196.24, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA09（HiPDA 奈飞分舵） 3, server: 134.195.196.36, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA09（HiPDA 奈飞分舵） 4, server: 134.195.196.193, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name:🇨🇦CA10（HiPDA 奈飞分舵）, server: 134.195.196.50, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA10（HiPDA 奈飞分舵） 2, server: 134.195.196.36, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA10（HiPDA 奈飞分舵） 3, server: 134.195.196.199, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA10（HiPDA 奈飞分舵） 4, server: 134.195.196.24, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA10（HiPDA 奈飞分舵） 5, server: 134.195.196.179, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA10（HiPDA 奈飞分舵） 6, server: 134.195.196.231, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA10（HiPDA 奈飞分舵） 7, server: 134.195.196.202, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA10（HiPDA 奈飞分舵） 8, server: 134.195.196.193, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA11（HiPDA 奈飞分舵）, server: 134.195.196.50, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA11（HiPDA 奈飞分舵） 2, server: 134.195.196.199, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA11（HiPDA 奈飞分舵） 3, server: 134.195.196.36, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA11（HiPDA 奈飞分舵） 4, server: 134.195.196.231, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA11（HiPDA 奈飞分舵） 5, server: 134.195.196.179, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA11（HiPDA 奈飞分舵） 6, server: 134.195.196.24, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name:🇨🇦CA11（HiPDA 奈飞分舵） 7, server: 134.195.196.193, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA01（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA01（HiPDA 奈飞分舵） 2, server: 134.195.196.36, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA01（HiPDA 奈飞分舵） 3, server: 134.195.196.50, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA01（HiPDA 奈飞分舵） 4, server: 134.195.196.202, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA01（HiPDA 奈飞分舵） 5, server: 134.195.196.179, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA01（HiPDA 奈飞分舵） 6, server: 134.195.196.193, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA01（HiPDA 奈飞分舵） 7, server: 134.195.196.231, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA02（HiPDA 奈飞分舵）, server: 134.195.196.36, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA02（HiPDA 奈飞分舵） 2, server: 134.195.196.199, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA02（HiPDA 奈飞分舵） 3, server: 134.195.196.231, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA02（HiPDA 奈飞分舵） 4, server: 134.195.196.179, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA02（HiPDA 奈飞分舵） 5, server: 134.195.196.202, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA02（HiPDA 奈飞分舵） 6, server: 134.195.196.193, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name:CA03（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA03（HiPDA 奈飞分舵） 2, server: 134.195.196.24, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA03（HiPDA 奈飞分舵） 3, server: 134.195.196.50, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA03（HiPDA 奈飞分舵） 4, server: 134.195.196.36, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA03（HiPDA 奈飞分舵） 5, server: 134.195.196.231, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA03（HiPDA 奈飞分舵） 6, server: 134.195.196.193, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA04（HiPDA 奈飞分舵）, server: 134.195.196.50, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA04（HiPDA 奈飞分舵） 2, server: 134.195.196.199, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA04（HiPDA 奈飞分舵） 3, server: 134.195.196.231, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA04（HiPDA 奈飞分舵） 4, server: 134.195.196.179, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA04（HiPDA 奈飞分舵） 5, server: 134.195.196.202, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA04（HiPDA 奈飞分舵） 6, server: 134.195.196.24, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name:CA05（HiPDA 奈飞分舵）, server: 134.195.196.50, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA05（HiPDA 奈飞分舵） 2, server: 134.195.196.202, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA05（HiPDA 奈飞分舵） 3, server: 134.195.196.179, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA05（HiPDA 奈飞分舵） 4, server: 134.195.196.24, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA05（HiPDA 奈飞分舵） 5, server: 134.195.196.231, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA05（HiPDA 奈飞分舵） 6, server: 134.195.196.199, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA06（HiPDA 奈飞分舵）, server: 134.195.196.179, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA06（HiPDA 奈飞分舵） 2, server: 134.195.196.50, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA06（HiPDA 奈飞分舵） 3, server: 134.195.196.231, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA06（HiPDA 奈飞分舵） 4, server: 134.195.196.36, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA06（HiPDA 奈飞分舵） 5, server: 134.195.196.193, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name:CA07（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name:CA07（HiPDA 奈飞分舵） 2, server: 134.195.196.231, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name:CA07（HiPDA 奈飞分舵） 3, server: 134.195.196.24, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name:CA07（HiPDA 奈飞分舵） 4, server: 134.195.196.179, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name:CA07（HiPDA 奈飞分舵） 5, server: 134.195.196.36, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name:CA07（HiPDA 奈飞分舵） 6, server: 134.195.196.202, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name:CA07（HiPDA 奈飞分舵） 7, server: 134.195.196.50, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name:CA07（HiPDA 奈飞分舵） 8, server: 134.195.196.193, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name:CA08（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA08（HiPDA 奈飞分舵） 2, server: 134.195.196.231, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA08（HiPDA 奈飞分舵） 3, server: 134.195.196.50, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA08（HiPDA 奈飞分舵） 4, server: 134.195.196.179, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA08（HiPDA 奈飞分舵） 5, server: 134.195.196.24, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA08（HiPDA 奈飞分舵） 6, server: 134.195.196.202, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA08（HiPDA 奈飞分舵） 7, server: 134.195.196.193, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA09（HiPDA 奈飞分舵）, server: 134.195.196.199, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA09（HiPDA 奈飞分舵） 2, server: 134.195.196.24, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA09（HiPDA 奈飞分舵） 3, server: 134.195.196.36, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA09（HiPDA 奈飞分舵） 4, server: 134.195.196.193, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name:CA10（HiPDA 奈飞分舵）, server: 134.195.196.50, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA10（HiPDA 奈飞分舵） 2, server: 134.195.196.36, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA10（HiPDA 奈飞分舵） 3, server: 134.195.196.199, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA10（HiPDA 奈飞分舵） 4, server: 134.195.196.24, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA10（HiPDA 奈飞分舵） 5, server: 134.195.196.179, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA10（HiPDA 奈飞分舵） 6, server: 134.195.196.231, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA10（HiPDA 奈飞分舵） 7, server: 134.195.196.202, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA10（HiPDA 奈飞分舵） 8, server: 134.195.196.193, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA11（HiPDA 奈飞分舵）, server: 134.195.196.50, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA11（HiPDA 奈飞分舵） 2, server: 134.195.196.199, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA11（HiPDA 奈飞分舵） 3, server: 134.195.196.36, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA11（HiPDA 奈飞分舵） 4, server: 134.195.196.231, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA11（HiPDA 奈飞分舵） 5, server: 134.195.196.179, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA11（HiPDA 奈飞分舵） 6, server: 134.195.196.24, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name:CA11（HiPDA 奈飞分舵） 7, server: 134.195.196.193, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 🇭🇰 HK_03 （HiPDA 奈飞分舵）, server: 118.107.244.112, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
   - {name: 🇭🇰 HK_06 （HiPDA 奈飞分舵）, server: 118.107.244.110, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
   - {name: 🇭🇰 HK_10 （HiPDA 奈飞分舵）, server: 118.107.244.110, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}

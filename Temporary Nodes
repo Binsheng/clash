@@ -1,3 +1,4 @@
+proxies:
   - {name: 🇹🇼 台湾（HiPDA 奈飞分舵）, server: 117.178.233.165, port: 39205, type: vmess, uuid: b8da3f41-58ec-3294-891e-cc27ecb1244a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /jike1, ws-headers: {Host: t.me/vpnhat}}
   - {name: 🇹🇼 台湾（HiPDA 奈飞分舵） 2, server: 117.178.233.165, port: 39201, type: vmess, uuid: b8da3f41-58ec-3294-891e-cc27ecb1244a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /jike1, ws-headers: {Host: t.me/vpnhat}}
   - {name: 🇺🇸 US（HiPDA 奈飞分舵）, server: usdll2.jjyun.ren, port: 80, type: vmess, uuid: d59e8d54-4914-4a07-80df-33fe2a7776ac, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /jjyunml, ws-headers: {Host: usdll2.jjyun.ren}}

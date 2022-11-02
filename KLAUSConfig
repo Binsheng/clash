@@ -30,7 +30,7 @@ surge_ruleset=🐟 Out-of-Rules,[]FINAL
 
 
 
-custom_proxy_group=🔰 Selection`select`[]🇭🇰 HK`[]🇨🇳 TW`[]🇸🇬 SG`[]🇯🇵 JP`[]🇺🇲 USA`[]🚀 Others`[]🚀 Manual`[]DIRECT`.*
+custom_proxy_group=🔰 Selection`select`[]🇭🇰 HK`[]🇩🇪 DE`[]🇨🇳 TW`[]🇸🇬 SG`[]🇯🇵 JP`[]🇺🇲 USA`[]🚀 Others`[]🚀 Manual`[]DIRECT`.*
 ;custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`500
 custom_proxy_group=📲 Telegram`select`[]🔰 Selection`[]🇭🇰 HK`[]🇨🇳 TW`[]🇸🇬 SG`[]🇯🇵 JP`[]🇺🇲 USA`[]🚀 Others`[]🚀 Manual`[]DIRECT`(新|狮城|SG|Singa|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US)
 custom_proxy_group=📹 YouTube`select`[]🔰 Selection`[]🇭🇰 HK`[]🇨🇳 TW`[]🇸🇬 SG`[]🇯🇵 JP`[]🇺🇲 USA`[]🚀 Others`[]DIRECT`^((?!CN2|流量|时间).)*$

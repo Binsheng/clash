@@ -1,3 +1,5 @@
+;自定义媒体规则，自定义的规则要放在最前面保证生效。（规则可添加出处地址：https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset/StreamingMedia/Video）
+surge_ruleset=🇩🇪 DE,https://raw.githubusercontent.com/Binsheng/clash/main/ZDFmediathek.yaml
 
 
 surge_ruleset=DIRECT,rules/LocalAreaNetwork.list

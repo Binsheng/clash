@@ -1,5 +1,5 @@
 ;自定义媒体规则，自定义的规则要放在最前面保证生效。规则文件后缀名需为list才会被识别。（规则可添加出处地址：https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset/StreamingMedia/Video）
-;surge_ruleset=🇩🇪 DE,https://raw.githubusercontent.com/Binsheng/clash/main/ZDFmediathek.list
+surge_ruleset=🇩🇪 DE,https://raw.githubusercontent.com/Binsheng/clash/main/ZDFmediathek.list
 
 
 surge_ruleset=DIRECT,rules/LocalAreaNetwork.list
@@ -29,9 +29,6 @@ surge_ruleset=DIRECT,rules/NobyDa/Surge/Download.list
 ;surge_ruleset=🇨🇳 TW,[]GEOIP,TW,no-resolve
 ;surge_ruleset=🇺🇲 USA,[]GEOIP,US,no-resolve
 surge_ruleset=🐟 Out-of-Rules,[]FINAL
-
-;自定义媒体规则，自定义的规则要放在最前面保证生效。规则文件后缀名需为list才会被识别。（规则可添加出处地址：https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset/StreamingMedia/Video）
-surge_ruleset=🇩🇪 DE,https://raw.githubusercontent.com/Binsheng/clash/main/ZDFmediathek.list
 
 
 

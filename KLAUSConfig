@@ -1,7 +1,7 @@
 ;自定义媒体规则，自定义的规则要放在最前面保证生效。规则文件后缀名需为list才会被识别。（规则可添加出处地址：https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset/StreamingMedia/Video）
 surge_ruleset=🇩🇪 DE,https://raw.githubusercontent.com/Binsheng/clash/main/ZDFmediathek.list
 surge_ruleset=🇩🇪 DE,https://raw.githubusercontent.com/Binsheng/clash/main/ard.list
-surge_ruleset=📧 Mail,https://raw.githubusercontent.com/Binsheng/clash/main/mail.list
+;surge_ruleset=📧 Mail,https://raw.githubusercontent.com/Binsheng/clash/main/mail.list
 
 
 surge_ruleset=DIRECT,rules/LocalAreaNetwork.list
@@ -36,7 +36,7 @@ surge_ruleset=🐟 Out-of-Rules,[]FINAL
 
 
 custom_proxy_group=🔰 Selection`select`[]🇭🇰 HK`[]🇩🇪 DE`[]🇨🇳 TW`[]🇸🇬 SG`[]🇯🇵 JP`[]🇺🇲 USA`[]🚀 Others`[]🚀 Manual`[]DIRECT`.*
-custom_proxy_group=📧 Mail`url-test`(邮|Mail)`http://www.gstatic.com/generate_204`300,,150
+;custom_proxy_group=📧 Mail`url-test`(邮|Mail)`http://www.gstatic.com/generate_204`300,,150
 custom_proxy_group=📲 Telegram`select`[]🔰 Selection`[]🇭🇰 HK`[]🇨🇳 TW`[]🇸🇬 SG`[]🇯🇵 JP`[]🇺🇲 USA`[]🚀 Others`[]🚀 Manual`[]DIRECT`(新|狮城|SG|Singa|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US)
 custom_proxy_group=📹 YouTube`select`[]🔰 Selection`[]🇭🇰 HK`[]🇨🇳 TW`[]🇸🇬 SG`[]🇯🇵 JP`[]🇺🇲 USA`[]🚀 Others`[]DIRECT`^((?!CN2|流量|时间).)*$
 custom_proxy_group=🎥 NETFLIX`select`[]🔰 Selection`[]🇭🇰 HK`[]🇨🇳 TW`[]🇸🇬 SG`[]🇯🇵 JP`[]🇺🇲 USA`[]🚀 Others`[]DIRECT`(NF)
